@@ -1,11 +1,16 @@
 # HTTP/WebSocket Local Server + Web Client + Android Client
 
-## How to start the local service
+## How to start the local service and access clients
 - run server/src/Main
 - go to [localhost:8080/index.html](http://localhost:8080/index.html) for the web client
+- run android-client/AndroidChatClient for the Android client
 
 ## Demo Screenshot
 ![web client](images/web-client.png)
+
+![android client log in page](images/LogInPage.png)
+
+![android client chat page](images/ChatRoomPage.png)
 
 ![server console log](images/server-console-log.png)
 
